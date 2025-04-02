@@ -57,7 +57,4 @@ This project addresses fairness, bias, and privacy concerns in predictive modeli
 - Privacy-preserving techniques in data handling
 
 ## License
-[License information will be added]
-
-## Contact
-[Contact information will be added]
+Please refer to the [LICENSE](LICENSE) file for license details.
