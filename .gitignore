@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Data files
+data/cleaned/
+data/processed/
+
+# Docs & Plots
+docs/
+docs/plots/
