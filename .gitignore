@@ -173,10 +173,17 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Data files
+# Data files & Insights
 data/cleaned/
 data/processed/
+data/insights/
 
 # Docs & Plots
 docs/
 docs/plots/
+
+# Models
+models/
+
+# Miscellaneous
+.DS_Store

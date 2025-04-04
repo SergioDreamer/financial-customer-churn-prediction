@@ -58,8 +58,11 @@ This section provides instructions on how to set up and run the customer churn p
    ```
 
 4. Download the dataset and place it in the `data/raw` directory. Ensure the data is in CSV format.
+    - Original dataset that was used to train the model is included under `data/raw` directory.
+    - If you want to use your own dataset, please ensure that it has the same file name and the format as the original dataset.
     
-5. Run the Jupyter notebooks in the `notebooks` directory to follow the project workflow.
+5. To run the project workflow, open the Jupyter notebooks in the `notebooks` directory:
+    - I recommend to "Clear All Outputs" and "Run All Cells" in the Jupyter Notebook to ensure that all cells are executed in order and that the outputs are generated correctly.
 
 ## Project Structure
 ```

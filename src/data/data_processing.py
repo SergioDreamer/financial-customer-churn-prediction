@@ -4,9 +4,7 @@ Data processing module for customer churn prediction.
 This module contains functions for loading, cleaning, and preprocessing data.
 """
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+# import numpy as np
 from typing import Tuple, Dict, Any
 import os
 import logging
